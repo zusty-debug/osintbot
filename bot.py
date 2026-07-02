@@ -15,10 +15,10 @@ CHANNEL_USERNAME = '@samplebyzusty'
 ADMIN_USERNAME = '@xxzusty'
 ADMIN_ID = 8847453162
 API_KEY = 'NUM2INFO'
-API_URL = 'DM @FOREVER_HIDDEN FOR APII'
+API_URL = '@xzusty'
 
 # Working APIs
-VEHICLE_API = 'DM @FOREVER_HIDDEN FOR API'
+VEHICLE_API = 'https://paid.originalapis.workers.dev/leak?key=abhigyanofficialkey&query='
 UPI_API = 'DM @FOREVER_HIDDEN FOR API'
 UPI_API_KEY = 'DM @FOREVER_HIDDEN FOR API'
 AADHAR_API = 'DM @FOREVER_HIDDEN FOR API'
