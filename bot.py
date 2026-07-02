@@ -10,10 +10,10 @@ import sys
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-BOT_TOKEN = 'Add your bot token here'
-CHANNEL_USERNAME = 'ADD YOUR CHANNEL USERNAME'
-ADMIN_USERNAME = 'YOUR USERNAME'
-ADMIN_ID = 6603919676
+BOT_TOKEN = '7798206205:AAFXSS_3F8sivVxAMuPrbpZq2DBvDGlDjK0'
+CHANNEL_USERNAME = '@samplebyzusty'
+ADMIN_USERNAME = '@xxzusty'
+ADMIN_ID = 8847453162
 API_KEY = 'NUM2INFO'
 API_URL = 'DM @FOREVER_HIDDEN FOR APII'
 
