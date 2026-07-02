@@ -14,8 +14,8 @@ BOT_TOKEN = '7798206205:AAFXSS_3F8sivVxAMuPrbpZq2DBvDGlDjK0'
 CHANNEL_USERNAME = '@samplebyzusty'
 ADMIN_USERNAME = '@xxzusty'
 ADMIN_ID = 8847453162
-API_KEY = 'NUM2INFO'
-API_URL = 'https://paid.originalapis.workers.dev/leak?key=abhigyanofficialkey&query='
+API_KEY = 'abhigyanofficialkey'
+API_URL = 'https://paid.originalapis.workers.dev/leak'
 
 # Working APIs
 VEHICLE_API = 'https://paid.originalapis.workers.dev/leak?key=abhigyanofficialkey&query='
